@@ -1,2 +1,1 @@
-# gitskills
-clone the repository to local(skil learning test)
+Creating a new branch is quick.
